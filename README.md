@@ -15,4 +15,4 @@
 •	The only bottle neck in the current application is fetching input data from twitter. This bottleneck can be eliminated and the application can be made more effective by getting access to use Twitter Firehose.
 
 
-Please Refer to the FinalprojectReport.pdf for detailed report of the project. 
+Please Refer to the FinalProjectReport.pdf for detailed report of the project. 
